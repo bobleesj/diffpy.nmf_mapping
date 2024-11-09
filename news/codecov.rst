@@ -1,6 +1,6 @@
 **Added:**
 
-* <news item>
+* Coverage report in each PR
 
 **Changed:**
 
